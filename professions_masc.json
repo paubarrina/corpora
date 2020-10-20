@@ -1,6 +1,6 @@
 {
-  "descripció": "Professions en català",
-  "professions": [
+  "descripció": "Professions en català, paraules de gènere masculí",
+  "professions_masc": [
     "acròbata",
     "actor",
     "administrador",
